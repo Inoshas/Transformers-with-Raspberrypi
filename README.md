@@ -32,13 +32,13 @@ pip3 install torch transformers sentence-transformers
 
 
 ## Code Examples
-#### 1. Text Generation Pipeline ()
+#### 1. Text Generation Pipeline (text_generation.py)
 This example demonstrates how to set up and use a text generation pipeline with a pre-trained model.
 
-#### 2. Text Embedding and Similarity ()
+#### 2. Text Embedding and Similarity (text_embedding_similarity.py)
 This example shows how to encode texts into embeddings and compute similarity scores.
 
-####  3. Sentence Embedding and Similarity using Sentence Transformers ()
+####  3. Sentence Embedding and Similarity using Sentence Transformers (sentence_transformers_similarity.py)
 This example demonstrates how to use the sentence-transformers library to encode sentences and compute similarity scores.
 
 
